@@ -1,4 +1,4 @@
-## Hello
+## hi
 
 Currently working on [MineCord](https://github.com/Alexanderfem/Minecord)
 

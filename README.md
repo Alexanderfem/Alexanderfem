@@ -2,5 +2,5 @@
 ## hi
 
 
-* 🔗 [Website](https://alexanderfem.com)
-* 👾 [Discord](https://discord.com/users/1151388229296205875) 
+*  [Website](https://alexanderfem.com)
+*  [Discord](https://discord.com/users/1151388229296205875) 
